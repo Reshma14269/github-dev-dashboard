@@ -4,9 +4,9 @@ A Streamlit app that turns any public GitHub profile into a live activity dashbo
 language breakdown, top repos, and weekly commit trends, pulled straight from the
 GitHub REST API and cleaned with pandas.
 
-**[Live demo →](#)** *(add your deployed Streamlit Cloud link here)*
+**[Live demo →](https://app-dev-dashboard-6cyzpghvyzvdatbx9e2jjd.streamlit.app/)**
 
-![Demo](docs/demo.gif) *(add a short screen recording here — this is what recruiters actually look at)*
+
 
 ## Why I built this
 
